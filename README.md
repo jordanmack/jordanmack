@@ -1,8 +1,8 @@
 ### こんにちは! 👋
 
-- 🔭 I’m currently working on building the developer ecosystem at [Nervos](https://www.nervos.org/).
-- 👯 I’m looking to collaborate on podcasts and live streams.
-- 💬 Ask me about anything related to [development on Nervos](https://www.nervos.org/developer/).
+- 🔭 I’m currently working on building the developer ecosystem at the [Nervos Foundation](https://www.nervos.org/).
+- 👯 I’m looking to collaborate with others on podcasts and live streams.
+- 💬 Ask me about anything related to [development on Nervos](https://www.nervos.org/developer/) or blockchain in general.
 - 🗺 You can find me in the communities listed on my [website.](https://www.jordanmack.info/#where)
 - 📫 You can also find my contact information on my [website.](https://www.jordanmack.info/#contact)
 
