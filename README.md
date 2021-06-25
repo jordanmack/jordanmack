@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on building the developer ecosystem at the [Nervos Foundation](https://www.nervos.org/).
 - 👯 I’m looking to collaborate with others on podcasts and live streams.
 - 💬 Ask me about anything related to [development on Nervos](https://www.nervos.org/developer/) or blockchain in general.
-- 🗺 You can find me in the communities listed on my [website.](https://www.jordanmack.info/#where)
-- 📫 You can also find my contact information on my [website.](https://www.jordanmack.info/#contact)
+- 🗺 You can find me in the communities listed [here.](https://www.jordanmack.info/#where)
+- 📫 You can also find my contact information [here.](https://www.jordanmack.info/#contact)
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanmack)](https://github.com/anuraghazra/github-readme-stats)
 
