@@ -5,6 +5,7 @@
 - 💬 Ask me about anything related to blockchains and cryptocurrency.
 - 🗺 You can find me in the communities listed [here.](https://www.jordanmack.info/#where)
 - 📫 You can also find my contact information [here.](https://www.jordanmack.info/#contact)
+- 🛠 Sorry, I am not available to work on your project.
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanmack)](https://github.com/anuraghazra/github-readme-stats)
 
