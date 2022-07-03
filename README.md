@@ -11,6 +11,10 @@
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanmack)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Jordan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jordanmack)](https://git.io/streak-stats)
+
+[![Jordan's Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=5&margin-h=5&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanmack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
